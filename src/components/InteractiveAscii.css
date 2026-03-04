@@ -1,0 +1,28 @@
+.interactive-ascii-container {
+  width: 100%;
+  aspect-ratio: 1;
+  max-height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.interactive-ascii-canvas {
+  width: 100%;
+  height: 100%;
+  cursor: crosshair;
+  display: block;
+}
+
+@media (max-width: 968px) {
+  .interactive-ascii-container {
+    max-height: 450px;
+  }
+}
+
+@media (max-width: 640px) {
+  .interactive-ascii-container {
+    max-height: 350px;
+  }
+}
