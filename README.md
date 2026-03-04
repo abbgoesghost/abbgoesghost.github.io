@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://abbgoesghost.github.io/" target="_blank">Live Demo (current deploy)</a> •
-  <a href="https://github.com/abbgoesghost/aboubacar/" target="_blank">Source Code</a>
+  <a href="https://github.com/abbgoesghost/abbgoesghost.github.io/" target="_blank">Source Code</a>
 </p>
 
-<img width="1306" alt="Portfolio Screenshot" src="https://github.com/abbgoesghost/aboubacar/.png">  
+<img width="1306" alt="Portfolio Screenshot" src="https://raw.githubusercontent.com/abbgoesghost/abbgoesghost.github.io/refs/heads/master/src/assets/preview.png">  
 
 
 ## 🛠 Setup
